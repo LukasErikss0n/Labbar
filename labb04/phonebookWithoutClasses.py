@@ -1,10 +1,5 @@
 
 
-class telefonbok:
-    
-    def __init__(self, name=0, number=0):
-        self.listDic[name] = number
-
 
 def mainMenu():
     listDic = {}
